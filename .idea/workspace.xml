@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4652c952-7312-44b1-bb3a-3d36ca65ac0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Advanced.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t1_StacksAndQueues/BrowserHistory.java" afterDir="false" />
+    <list default="true" id="4652c952-7312-44b1-bb3a-3d36ca65ac0f" name="Changes" comment="exercise">
+      <change afterPath="$PROJECT_DIR$/src/t1_StacksAndQueues/DecimalToBinaryConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t1_StacksAndQueues/MatchingBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t1_StacksAndQueues/SimpleCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +26,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29LEjxfAz7qSizYdkGjrvN4kT54" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MatchingBrackets">
     <configuration name="BrowserHistory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="t1_StacksAndQueues.BrowserHistory" />
       <module name="Java-Advanced" />
@@ -54,8 +53,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DecimalToBinaryConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t1_StacksAndQueues.DecimalToBinaryConverter" />
+      <module name="Java-Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="t1_StacksAndQueues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatchingBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t1_StacksAndQueues.MatchingBrackets" />
+      <module name="Java-Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="t1_StacksAndQueues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t1_StacksAndQueues.SimpleCalculator" />
+      <module name="Java-Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="t1_StacksAndQueues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MatchingBrackets" />
+        <item itemvalue="Application.DecimalToBinaryConverter" />
+        <item itemvalue="Application.SimpleCalculator" />
         <item itemvalue="Application.BrowserHistory" />
       </list>
     </recent_temporary>
@@ -69,6 +110,14 @@
       <option name="presentableId" value="Default" />
       <updated>1652884105799</updated>
     </task>
+    <task id="LOCAL-00001" summary="exercise">
+      <created>1653056794991</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653056794992</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,5 +130,25 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/t1_StacksAndQueues/SimpleCalculator.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/t1_StacksAndQueues/MatchingBrackets.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
