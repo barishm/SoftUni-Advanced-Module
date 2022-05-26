@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4652c952-7312-44b1-bb3a-3d36ca65ac0f" name="Changes" comment="exercise">
-      <change afterPath="$PROJECT_DIR$/src/t1_StacksAndQueues/DecimalToBinaryConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t1_StacksAndQueues/MatchingBrackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t1_StacksAndQueues/SimpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t1_StacksAndQueues/BasicStackOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t1_StacksAndQueues/MaximumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t1_StacksAndQueues/ReverseNumberWithStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t1_StacksAndQueues/MatchingBrackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/t1_StacksAndQueues/MatchingBrackets.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,15 +35,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.MatchingBrackets">
-    <configuration name="BrowserHistory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t1_StacksAndQueues.BrowserHistory" />
+}]]></component>
+  <component name="RunManager" selected="Application.MaximumElement">
+    <configuration name="BasicStackOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t1_StacksAndQueues.BasicStackOperations" />
       <module name="Java-Advanced" />
       <extension name="coverage">
         <pattern>
@@ -53,7 +56,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecimalToBinaryConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MaximumElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t1_StacksAndQueues.MaximumElement" />
+      <module name="Java-Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="t1_StacksAndQueues.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t1_StacksAndQueues.DecimalToBinaryConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="t1_StacksAndQueues.DecimalToBinaryConverter" />
       <module name="Java-Advanced" />
       <extension name="coverage">
@@ -66,7 +82,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatchingBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="t1_StacksAndQueues.MatchingBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="t1_StacksAndQueues.MatchingBrackets" />
       <module name="Java-Advanced" />
       <extension name="coverage">
@@ -79,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t1_StacksAndQueues.SimpleCalculator" />
+    <configuration name="t1_StacksAndQueues.ReverseNumberWithStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t1_StacksAndQueues.ReverseNumberWithStack" />
       <module name="Java-Advanced" />
       <extension name="coverage">
         <pattern>
@@ -94,10 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MatchingBrackets" />
-        <item itemvalue="Application.DecimalToBinaryConverter" />
-        <item itemvalue="Application.SimpleCalculator" />
-        <item itemvalue="Application.BrowserHistory" />
+        <item itemvalue="Application.MaximumElement" />
+        <item itemvalue="Application.BasicStackOperations" />
+        <item itemvalue="Application.t1_StacksAndQueues.ReverseNumberWithStack" />
+        <item itemvalue="Application.t1_StacksAndQueues.MatchingBrackets" />
+        <item itemvalue="Application.t1_StacksAndQueues.DecimalToBinaryConverter" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653056794992</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="exercise">
+      <created>1653155707698</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653155707698</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,14 +163,14 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/t1_StacksAndQueues/SimpleCalculator.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/src/t1_StacksAndQueues/BasicStackOperations.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/t1_StacksAndQueues/MatchingBrackets.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/src/t1_StacksAndQueues/MaximumElement.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
