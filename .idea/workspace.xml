@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4652c952-7312-44b1-bb3a-3d36ca65ac0f" name="Changes" comment="exercise">
-      <change afterPath="$PROJECT_DIR$/src/t1_StacksAndQueues/RecursiveFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t2_MultidimensionalArrays/FillMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t2_MultidimensionalArrays/MatrixOfPalindromes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t1_StacksAndQueues/BalancedParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/t1_StacksAndQueues/BalancedParentheses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RecursiveFibonacci">
+  <component name="RunManager" selected="Application.MatrixOfPalindromes">
     <configuration name="BalancedParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="t1_StacksAndQueues.BalancedParentheses" />
       <module name="Java-Advanced" />
@@ -53,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicQueueOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t1_StacksAndQueues.BasicQueueOperations" />
+    <configuration name="FillMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t2_MultidimensionalArrays.FillMatrix" />
       <module name="Java-Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="t1_StacksAndQueues.*" />
+          <option name="PATTERN" value="t2_MultidimensionalArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicStackOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t1_StacksAndQueues.BasicStackOperations" />
+    <configuration name="MatrixOfPalindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t2_MultidimensionalArrays.MatrixOfPalindromes" />
       <module name="Java-Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="t1_StacksAndQueues.*" />
+          <option name="PATTERN" value="t2_MultidimensionalArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MatrixOfPalindromes" />
         <item itemvalue="Application.RecursiveFibonacci" />
+        <item itemvalue="Application.FillMatrix" />
         <item itemvalue="Application.BalancedParentheses" />
         <item itemvalue="Application.MaximumElement" />
-        <item itemvalue="Application.BasicQueueOperations" />
-        <item itemvalue="Application.BasicStackOperations" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653927403785</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="exercise">
+      <created>1654029324515</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654029324515</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,9 +179,9 @@
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/t1_StacksAndQueues/RecursiveFibonacci.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="11" />
+          <url>file://$PROJECT_DIR$/src/t2_MultidimensionalArrays/MatrixOfPalindromes.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
