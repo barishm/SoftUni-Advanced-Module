@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4652c952-7312-44b1-bb3a-3d36ca65ac0f" name="Changes" comment="exercise">
-      <change afterPath="$PROJECT_DIR$/src/t2_MultidimensionalArrays/CompareMatrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t2_MultidimensionalArrays/MaximumSumOf2x2SubMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t2_MultidimensionalArrays/PositionsOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t2_MultidimensionalArrays/PrintDiagonalsOfSquareMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t2_MultidimensionalArrays/SumMatrixElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t3_SetsAndMapsAdvanced/CountSymbols.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t3_SetsAndMapsAdvanced/PeriodicTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t3_SetsAndMapsAdvanced/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t3_SetsAndMapsAdvanced/SetsOfElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t3_SetsAndMapsAdvanced/UniqueUsernames.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,13 +42,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrintDiagonalsOfSquareMatrix">
-    <configuration name="CompareMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t2_MultidimensionalArrays.CompareMatrices" />
+  <component name="RunManager" selected="Application.FixEmails">
+    <configuration name="CountSymbols" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t3_SetsAndMapsAdvanced.CountSymbols" />
       <module name="Java-Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="t2_MultidimensionalArrays.*" />
+          <option name="PATTERN" value="t3_SetsAndMapsAdvanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumSumOf2x2SubMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t2_MultidimensionalArrays.MaximumSumOf2x2SubMatrix" />
+    <configuration name="FixEmails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t3_SetsAndMapsAdvanced.FixEmails" />
       <module name="Java-Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="t2_MultidimensionalArrays.*" />
+          <option name="PATTERN" value="t3_SetsAndMapsAdvanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PositionsOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t2_MultidimensionalArrays.PositionsOf" />
+    <configuration name="PeriodicTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t3_SetsAndMapsAdvanced.PeriodicTable" />
       <module name="Java-Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="t2_MultidimensionalArrays.*" />
+          <option name="PATTERN" value="t3_SetsAndMapsAdvanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintDiagonalsOfSquareMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t2_MultidimensionalArrays.PrintDiagonalsOfSquareMatrix" />
+    <configuration name="PhoneBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t3_SetsAndMapsAdvanced.PhoneBook" />
       <module name="Java-Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="t2_MultidimensionalArrays.*" />
+          <option name="PATTERN" value="t3_SetsAndMapsAdvanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumMatrixElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t2_MultidimensionalArrays.SumMatrixElements" />
+    <configuration name="SetsOfElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t3_SetsAndMapsAdvanced.SetsOfElements" />
       <module name="Java-Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="t2_MultidimensionalArrays.*" />
+          <option name="PATTERN" value="t3_SetsAndMapsAdvanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintDiagonalsOfSquareMatrix" />
-        <item itemvalue="Application.MaximumSumOf2x2SubMatrix" />
-        <item itemvalue="Application.SumMatrixElements" />
-        <item itemvalue="Application.PositionsOf" />
-        <item itemvalue="Application.CompareMatrices" />
+        <item itemvalue="Application.FixEmails" />
+        <item itemvalue="Application.PhoneBook" />
+        <item itemvalue="Application.CountSymbols" />
+        <item itemvalue="Application.PeriodicTable" />
+        <item itemvalue="Application.SetsOfElements" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654200415568</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="exercise">
+      <created>1654366462762</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654366462762</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
