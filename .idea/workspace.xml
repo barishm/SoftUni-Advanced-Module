@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4652c952-7312-44b1-bb3a-3d36ca65ac0f" name="Changes" comment="exercise">
-      <change afterPath="$PROJECT_DIR$/src/t3_SetsAndMapsAdvanced/CountSymbols.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t3_SetsAndMapsAdvanced/PeriodicTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t3_SetsAndMapsAdvanced/PhoneBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t3_SetsAndMapsAdvanced/SetsOfElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t3_SetsAndMapsAdvanced/UniqueUsernames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t5_FunctionalProgramming/ConsumerPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t5_FunctionalProgramming/CustomMinFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t5_FunctionalProgramming/KnightsOfHonor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
