@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4652c952-7312-44b1-bb3a-3d36ca65ac0f" name="Changes" comment="exercise">
-      <change afterPath="$PROJECT_DIR$/src/t5_FunctionalProgramming/ConsumerPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t5_FunctionalProgramming/CustomMinFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t5_FunctionalProgramming/KnightsOfHonor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t6_DefiningClasses/BankAccount/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t6_DefiningClasses/BankAccount/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t6_DefiningClasses/Car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t6_DefiningClasses/Car/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/t5_FunctionalProgramming/AppliedArithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/t5_FunctionalProgramming/AppliedArithmetic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +42,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FixEmails">
+  <component name="RunManager" selected="Application.t6_DefiningClasses.Car.Main">
     <configuration name="CountSymbols" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="t3_SetsAndMapsAdvanced.CountSymbols" />
       <module name="Java-Advanced" />
@@ -67,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PeriodicTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t3_SetsAndMapsAdvanced.PeriodicTable" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t6_DefiningClasses.BankAccount.Main" />
       <module name="Java-Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="t3_SetsAndMapsAdvanced.*" />
+          <option name="PATTERN" value="t6_DefiningClasses.BankAccount.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetsOfElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t3_SetsAndMapsAdvanced.SetsOfElements" />
+    <configuration name="t6_DefiningClasses.Car.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t6_DefiningClasses.Car.Main" />
       <module name="Java-Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="t3_SetsAndMapsAdvanced.*" />
+          <option name="PATTERN" value="t6_DefiningClasses.Car.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.t6_DefiningClasses.Car.Main" />
+        <item itemvalue="Application.t6_DefiningClasses.Main" />
         <item itemvalue="Application.FixEmails" />
         <item itemvalue="Application.PhoneBook" />
         <item itemvalue="Application.CountSymbols" />
-        <item itemvalue="Application.PeriodicTable" />
-        <item itemvalue="Application.SetsOfElements" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654366462762</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="exercise">
+      <created>1654611202417</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654611202417</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,6 +211,17 @@
           <url>file://$PROJECT_DIR$/src/t2_MultidimensionalArrays/SumMatrixElements.java</url>
           <line>20</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/t6_DefiningClasses/BankAccount/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/t6_DefiningClasses/BankAccount/BankAccount.java</url>
+          <line>6</line>
+          <properties field="id" class="t6_DefiningClasses.BankAccount.BankAccount" />
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
