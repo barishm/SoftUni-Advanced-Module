@@ -21,7 +21,5 @@ public class Main {
                 .filter(person -> person.getAge() > 30)
                 .sorted(Comparator.comparing(Person::getName))
                 .forEach(System.out::println);
-
-
     }
 }
