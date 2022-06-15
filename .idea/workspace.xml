@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4652c952-7312-44b1-bb3a-3d36ca65ac0f" name="Changes" comment="exercise">
-      <change afterPath="$PROJECT_DIR$/src/t2_MultidimensionalArrays/DiagonalDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t2_MultidimensionalArrays/MaximalSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t2_MultidimensionalArrays/StringMatrixRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/t2_MultidimensionalArrays/MatrixShuffling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +38,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringMatrixRotation">
-    <configuration name="BalancedParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t1_StacksAndQueues.BalancedParentheses" />
+  <component name="RunManager" selected="Application.MatrixShuffling">
+    <configuration name="DiagonalDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t2_MultidimensionalArrays.DiagonalDifference" />
       <module name="Java-Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="t1_StacksAndQueues.*" />
+          <option name="PATTERN" value="t2_MultidimensionalArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,8 +52,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiagonalDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t2_MultidimensionalArrays.DiagonalDifference" />
+    <configuration name="MatrixShuffling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="t2_MultidimensionalArrays.MatrixShuffling" />
       <module name="Java-Advanced" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MatrixShuffling" />
         <item itemvalue="Application.StringMatrixRotation" />
         <item itemvalue="Application.MaximalSum" />
         <item itemvalue="Application.MaximumSumOf2x2SubMatrix" />
         <item itemvalue="Application.DiagonalDifference" />
-        <item itemvalue="Application.BalancedParentheses" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655062304565</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="exercise">
+      <created>1655140469129</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1655140469129</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,9 +264,9 @@
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/t2_MultidimensionalArrays/MaximalSum.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="37" />
+          <url>file://$PROJECT_DIR$/src/t2_MultidimensionalArrays/MatrixShuffling.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/t6_DefiningClasses/BankAccount/BankAccount.java</url>
