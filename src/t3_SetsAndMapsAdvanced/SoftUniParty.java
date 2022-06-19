@@ -24,6 +24,5 @@ public class SoftUniParty {
         }
         System.out.println(guest.size());
         System.out.println(String.join(System.lineSeparator(),guest));
-
     }
 }
