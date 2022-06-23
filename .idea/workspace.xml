@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4652c952-7312-44b1-bb3a-3d36ca65ac0f" name="Changes" comment="exercise">
-      <change afterPath="$PROJECT_DIR$/src/t9_IteratorsAndComparators/StackIterator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/t9_IteratorsAndComparators/StackIterator/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamExercises/p1_FlowerWreaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamExercises/p2_Bomb.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t1_StacksAndQueues/DecimalToBinaryConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/t1_StacksAndQueues/DecimalToBinaryConverter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,15 +32,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.MatchingBrackets">
+}</component>
+  <component name="RunManager" selected="Application.p1_FlowerWreaths">
     <configuration name="DecimalToBinaryConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="t1_StacksAndQueues.DecimalToBinaryConverter" />
       <module name="Java-Advanced" />
@@ -94,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="t9_IteratorsAndComparators.StrategyPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="t9_IteratorsAndComparators.StrategyPattern.Main" />
+    <configuration name="p1_FlowerWreaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamExercises.p1_FlowerWreaths" />
       <module name="Java-Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="t9_IteratorsAndComparators.StrategyPattern.*" />
+          <option name="PATTERN" value="ExamExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p1_FlowerWreaths" />
         <item itemvalue="Application.MatchingBrackets" />
         <item itemvalue="Application.DecimalToBinaryConverter" />
         <item itemvalue="Application.SimpleCalculator" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.t9_IteratorsAndComparators.StrategyPattern.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655921692697</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="exercise">
+      <created>1655971034633</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1655971034633</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -312,6 +318,11 @@
           <url>file://$PROJECT_DIR$/src/t1_StacksAndQueues/DecimalToBinaryConverter.java</url>
           <line>20</line>
           <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamExercises/p1_FlowerWreaths.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/t6_DefiningClasses/BankAccount/BankAccount.java</url>
