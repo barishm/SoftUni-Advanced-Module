@@ -2,110 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4652c952-7312-44b1-bb3a-3d36ca65ac0f" name="Changes" comment="exercise">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/p1_AutumnCocktails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cards/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cards/CardRanks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cards/CardSuits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cards/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrafficLight/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrafficLight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrafficLight/TrafficLight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-Advanced.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Advanced.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamExercises/aquarium/Aquarium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/aquarium/Aquarium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamExercises/aquarium/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/aquarium/Fish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamExercises/aquarium/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/aquarium/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamExercises/easterBasket/Basket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/easterBasket/Basket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamExercises/easterBasket/Egg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/easterBasket/Egg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamExercises/easterBasket/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/easterBasket/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamExercises/hotel/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/hotel/Hotel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamExercises/hotel/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/hotel/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamExercises/hotel/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/hotel/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamExercises/p1_AutumnCocktails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamExercises/p1_Blacksmith.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/p1_Blacksmith.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamExercises/p1_ChocoTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/p1_ChocoTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamExercises/p1_FlowerWreaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/p1_FlowerWreaths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamExercises/p2_Armory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/p2_Armory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamExercises/p2_ArmoryV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/p2_ArmoryV2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamExercises/p2_Bomb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/p2_Bomb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamExercises/p2_MouseAndCheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/p2_MouseAndCheese.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamExercises/p2_StickyFingers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/p2_StickyFingers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamExercises/university/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/university/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamExercises/university/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/university/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamExercises/university/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/university/University.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamExercises/workout/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/workout/Exercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamExercises/workout/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/workout/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamExercises/workout/Workout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/workout/Workout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t1_StacksAndQueues/BalancedParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t1_StacksAndQueues/BalancedParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t1_StacksAndQueues/BasicQueueOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t1_StacksAndQueues/BasicQueueOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t1_StacksAndQueues/BasicStackOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t1_StacksAndQueues/BasicStackOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t1_StacksAndQueues/BrowserHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t1_StacksAndQueues/BrowserHistory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t1_StacksAndQueues/DecimalToBinaryConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t1_StacksAndQueues/DecimalToBinaryConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t1_StacksAndQueues/MatchingBrackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t1_StacksAndQueues/MatchingBrackets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t1_StacksAndQueues/MaximumElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t1_StacksAndQueues/MaximumElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t1_StacksAndQueues/RecursiveFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t1_StacksAndQueues/RecursiveFibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t1_StacksAndQueues/ReverseNumberWithStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t1_StacksAndQueues/ReverseNumberWithStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t1_StacksAndQueues/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t1_StacksAndQueues/SimpleCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t2_MultidimensionalArrays/CompareMatrices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t2_MultidimensionalArrays/CompareMatrices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t2_MultidimensionalArrays/DiagonalDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t2_MultidimensionalArrays/DiagonalDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t2_MultidimensionalArrays/FillMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t2_MultidimensionalArrays/FillMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t2_MultidimensionalArrays/MatrixOfPalindromes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t2_MultidimensionalArrays/MatrixOfPalindromes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t2_MultidimensionalArrays/MatrixShuffling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t2_MultidimensionalArrays/MatrixShuffling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t2_MultidimensionalArrays/MaximalSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t2_MultidimensionalArrays/MaximalSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t2_MultidimensionalArrays/MaximumSumOf2x2SubMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t2_MultidimensionalArrays/MaximumSumOf2x2SubMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t2_MultidimensionalArrays/PositionsOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t2_MultidimensionalArrays/PositionsOf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t2_MultidimensionalArrays/PrintDiagonalsOfSquareMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t2_MultidimensionalArrays/PrintDiagonalsOfSquareMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t2_MultidimensionalArrays/StringMatrixRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t2_MultidimensionalArrays/StringMatrixRotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t2_MultidimensionalArrays/SumMatrixElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t2_MultidimensionalArrays/SumMatrixElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t3_SetsAndMapsAdvanced/CountSymbols.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t3_SetsAndMapsAdvanced/CountSymbols.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t3_SetsAndMapsAdvanced/FixEmails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t3_SetsAndMapsAdvanced/FixEmails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t3_SetsAndMapsAdvanced/ParkingLot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t3_SetsAndMapsAdvanced/ParkingLot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t3_SetsAndMapsAdvanced/PeriodicTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t3_SetsAndMapsAdvanced/PeriodicTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t3_SetsAndMapsAdvanced/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t3_SetsAndMapsAdvanced/PhoneBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t3_SetsAndMapsAdvanced/SetsOfElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t3_SetsAndMapsAdvanced/SetsOfElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t3_SetsAndMapsAdvanced/SoftUniParty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t3_SetsAndMapsAdvanced/SoftUniParty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t3_SetsAndMapsAdvanced/UniqueUsernames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t3_SetsAndMapsAdvanced/UniqueUsernames.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t5_FunctionalProgramming/AppliedArithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t5_FunctionalProgramming/AppliedArithmetic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t5_FunctionalProgramming/ConsumerPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t5_FunctionalProgramming/ConsumerPrint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t5_FunctionalProgramming/CustomComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t5_FunctionalProgramming/CustomComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t5_FunctionalProgramming/CustomMinFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t5_FunctionalProgramming/CustomMinFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t5_FunctionalProgramming/FindTheSmallestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t5_FunctionalProgramming/FindTheSmallestElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t5_FunctionalProgramming/KnightsOfHonor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t5_FunctionalProgramming/KnightsOfHonor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t5_FunctionalProgramming/ListOfPredicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t5_FunctionalProgramming/ListOfPredicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t5_FunctionalProgramming/PredicateForNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t5_FunctionalProgramming/PredicateForNames.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t5_FunctionalProgramming/PredicateParty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t5_FunctionalProgramming/PredicateParty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t5_FunctionalProgramming/ReverseAndExclude.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t5_FunctionalProgramming/ReverseAndExclude.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t6_DefiningClasses/BankAccount/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t6_DefiningClasses/BankAccount/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t6_DefiningClasses/BankAccount/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t6_DefiningClasses/BankAccount/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t6_DefiningClasses/Car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t6_DefiningClasses/Car/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t6_DefiningClasses/Car/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t6_DefiningClasses/Car/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t6_DefiningClasses/CompanyRoster/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t6_DefiningClasses/CompanyRoster/Department.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t6_DefiningClasses/CompanyRoster/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t6_DefiningClasses/CompanyRoster/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t6_DefiningClasses/CompanyRoster/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t6_DefiningClasses/CompanyRoster/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t6_DefiningClasses/OpinionPoll/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t6_DefiningClasses/OpinionPoll/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t6_DefiningClasses/OpinionPoll/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t6_DefiningClasses/OpinionPoll/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t6_DefiningClasses/RawData/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t6_DefiningClasses/RawData/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t6_DefiningClasses/RawData/Cargo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t6_DefiningClasses/RawData/Cargo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t6_DefiningClasses/RawData/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t6_DefiningClasses/RawData/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t6_DefiningClasses/RawData/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t6_DefiningClasses/RawData/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t6_DefiningClasses/RawData/Tire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t6_DefiningClasses/RawData/Tire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t6_DefiningClasses/SpeedRacing/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t6_DefiningClasses/SpeedRacing/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t6_DefiningClasses/SpeedRacing/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t6_DefiningClasses/SpeedRacing/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t8_Generics/Box/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t8_Generics/Box/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t8_Generics/Box/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t8_Generics/Box/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t8_Generics/CustomList/CustomList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t8_Generics/CustomList/CustomList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t8_Generics/CustomList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t8_Generics/CustomList/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t8_Generics/CustomList/Sorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t8_Generics/CustomList/Sorter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t9_IteratorsAndComparators/ComparingObjects/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t9_IteratorsAndComparators/ComparingObjects/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t9_IteratorsAndComparators/ComparingObjects/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t9_IteratorsAndComparators/ComparingObjects/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t9_IteratorsAndComparators/Froggy/Lake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t9_IteratorsAndComparators/Froggy/Lake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t9_IteratorsAndComparators/Froggy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t9_IteratorsAndComparators/Froggy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t9_IteratorsAndComparators/ListyIterator/ListyIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t9_IteratorsAndComparators/ListyIterator/ListyIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t9_IteratorsAndComparators/ListyIterator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t9_IteratorsAndComparators/ListyIterator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t9_IteratorsAndComparators/StackIterator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t9_IteratorsAndComparators/StackIterator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t9_IteratorsAndComparators/StackIterator/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t9_IteratorsAndComparators/StackIterator/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t9_IteratorsAndComparators/StrategyPattern/AgeComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t9_IteratorsAndComparators/StrategyPattern/AgeComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t9_IteratorsAndComparators/StrategyPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t9_IteratorsAndComparators/StrategyPattern/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t9_IteratorsAndComparators/StrategyPattern/NameComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t9_IteratorsAndComparators/StrategyPattern/NameComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/t9_IteratorsAndComparators/StrategyPattern/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/t9_IteratorsAndComparators/StrategyPattern/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.oop.t1_WorkingWithAbstraction.cards.Main">
+  <component name="RunManager" selected="Application.oop.t1_WorkingWithAbstraction.TrafficLight.Main">
     <configuration name="oop.t1_WorkingWithAbstraction.CardSuit.CardRank.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop.t1_WorkingWithAbstraction.CardSuit.CardRank.Main" />
       <module name="Java-Advanced" />
@@ -159,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oop.t1_WorkingWithAbstraction.CardSuit.asd.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.t1_WorkingWithAbstraction.CardSuit.asd.Main" />
+    <configuration name="oop.t1_WorkingWithAbstraction.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.t1_WorkingWithAbstraction.Main" />
       <module name="Java-Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.t1_WorkingWithAbstraction.CardSuit.asd.*" />
+          <option name="PATTERN" value="oop.t1_WorkingWithAbstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oop.t1_WorkingWithAbstraction.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.t1_WorkingWithAbstraction.Main" />
+    <configuration name="oop.t1_WorkingWithAbstraction.TrafficLight.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.t1_WorkingWithAbstraction.TrafficLight.Main" />
       <module name="Java-Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.t1_WorkingWithAbstraction.*" />
+          <option name="PATTERN" value="oop.t1_WorkingWithAbstraction.TrafficLight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.oop.t1_WorkingWithAbstraction.TrafficLight.Main" />
         <item itemvalue="Application.oop.t1_WorkingWithAbstraction.cards.Main" />
         <item itemvalue="Application.oop.t1_WorkingWithAbstraction.cards.cards.Main" />
         <item itemvalue="Application.oop.t1_WorkingWithAbstraction.Main" />
         <item itemvalue="Application.oop.t1_WorkingWithAbstraction.CardSuit.CardRank.Main" />
-        <item itemvalue="Application.oop.t1_WorkingWithAbstraction.CardSuit.asd.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -391,7 +291,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656255972576</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="exercise">
+      <created>1656698661192</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1656698661192</updated>
+    </task>
+    <task id="LOCAL-00025" summary="exercise">
+      <created>1656698675207</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1656698675207</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
