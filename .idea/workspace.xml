@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4652c952-7312-44b1-bb3a-3d36ca65ac0f" name="Changes" comment="exercise">
-      <change afterPath="$PROJECT_DIR$/src/oop/t2_Encapsulation/box/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t2_Encapsulation/box/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t2_Encapsulation/farm/Chicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t2_Encapsulation/farm/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t2_Encapsulation/shopping/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t2_Encapsulation/shopping/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t2_Encapsulation/shopping/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t2_Encapsulation/pizza/Dough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t2_Encapsulation/pizza/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t2_Encapsulation/pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t2_Encapsulation/pizza/Topping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t2_Encapsulation/pizza/ToppingTypes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t1_WorkingWithAbstraction/cards/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t1_WorkingWithAbstraction/cards/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t2_Encapsulation/shopping/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shopping/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t2_Encapsulation/shopping/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shopping/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t2_Encapsulation/shopping/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shopping/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Enum" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -50,20 +50,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.oop.t2_Encapsulation.shopping.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.t2_Encapsulation.box.farm.Main" />
-      <module name="Java-Advanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.t2_Encapsulation.box.farm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.oop.t2_Encapsulation.pizza.Main">
     <configuration name="oop.t1_WorkingWithAbstraction.TrafficLight.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop.t1_WorkingWithAbstraction.TrafficLight.Main" />
       <module name="Java-Advanced" />
@@ -103,6 +90,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="oop.t2_Encapsulation.pizza.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.t2_Encapsulation.pizza.Main" />
+      <module name="Java-Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.t2_Encapsulation.pizza.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="oop.t2_Encapsulation.shopping.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop.t2_Encapsulation.shopping.Main" />
       <module name="Java-Advanced" />
@@ -118,8 +118,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.oop.t2_Encapsulation.pizza.Main" />
         <item itemvalue="Application.oop.t2_Encapsulation.shopping.Main" />
-        <item itemvalue="Application.farm.Main" />
         <item itemvalue="Application.oop.t1_WorkingWithAbstraction.TrafficLight.Main" />
         <item itemvalue="Application.oop.t1_WorkingWithAbstraction.cards.Main" />
         <item itemvalue="Application.oop.t1_WorkingWithAbstraction.cards.cards.Main" />
@@ -317,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656699581613</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="exercise">
+      <created>1657150579367</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1657150579367</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

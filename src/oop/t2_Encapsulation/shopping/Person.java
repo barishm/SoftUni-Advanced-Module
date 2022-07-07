@@ -33,11 +33,6 @@ public class Person {
         }
         this.name = name;
     }
-
-    public double getMoney() {
-        return money;
-    }
-
     public void setMoney(double money) {
         if(money < 0){
             throw new IllegalArgumentException("Money cannot be negative");
