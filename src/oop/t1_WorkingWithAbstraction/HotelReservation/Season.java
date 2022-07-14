@@ -2,7 +2,7 @@ package oop.t1_WorkingWithAbstraction.HotelReservation;
 
 public enum Season {
     AUTUMN(1),
-    SPRINT(2),
+    SPRING(2),
     WINTER(3),
     SUMMER(4);
 
