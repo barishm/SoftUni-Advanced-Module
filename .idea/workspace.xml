@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4652c952-7312-44b1-bb3a-3d36ca65ac0f" name="Changes" comment="exercise">
-      <change afterPath="$PROJECT_DIR$/src/oop/t1_WorkingWithAbstraction/PointInRectangle/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t1_WorkingWithAbstraction/PointInRectangle/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t1_WorkingWithAbstraction/PointInRectangle/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelReservation/Discount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelReservation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelReservation/PriceCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HotelReservation/Season.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.oop.t1_WorkingWithAbstraction.StudentSystem.Main">
+  <component name="RunManager" selected="Application.oop.t1_WorkingWithAbstraction.HotelReservation.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop.t1_WorkingWithAbstraction.PointInRectangle.Main" />
       <module name="Java-Advanced" />
@@ -64,7 +65,20 @@
       <module name="Java-Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.t1_WorkingWithAbstraction.*" />
+          <option name="PATTERN" value="oop.t1_WorkingWithAbstraction.HotelReservation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oop.t1_WorkingWithAbstraction.HotelReservation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.t1_WorkingWithAbstraction.HotelReservation.Main" />
+      <module name="Java-Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.t1_WorkingWithAbstraction.HotelReservation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,26 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oop.t2_Encapsulation.shopping.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.t2_Encapsulation.shopping.Main" />
-      <module name="Java-Advanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.t2_Encapsulation.shopping.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.oop.t1_WorkingWithAbstraction.HotelReservation.Main" />
         <item itemvalue="Application.oop.t1_WorkingWithAbstraction.StudentSystem.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.RhombusOfStars" />
+        <item itemvalue="Application.oop.t1_WorkingWithAbstraction.RhombusOfStars" />
         <item itemvalue="Application.oop.t2_Encapsulation.pizza.Main" />
-        <item itemvalue="Application.oop.t2_Encapsulation.shopping.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657302026591</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="exercise">
+      <created>1657562565957</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1657562565957</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
