@@ -2,16 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4652c952-7312-44b1-bb3a-3d36ca65ac0f" name="Changes" comment="exercise">
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/Inheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/Inheritance/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/Inheritance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/Inheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/Inheritance/Puppy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/BorderControl/Citizen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/BorderControl/Identifiable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/BorderControl/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/BorderControl/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/CarShop/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/CarShop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/CarShop/Seat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/SayHello/BasePerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/SayHello/Bulgarian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/SayHello/Chinese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/SayHello/European.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/SayHello/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/SayHello/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced/ExamExercises/university/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced/ExamExercises/university/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced/ExamExercises/university/University.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t2_Encapsulation/SalaryIncrease/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t2_Encapsulation/SalaryIncrease/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +27,7 @@
       <list>
         <option value="Kotlin Class" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -51,13 +56,19 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.oop.t3_Inheritance.Inheritance.Main">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="oop.t4_InterfacesAndAbstraction.CarShop" />
+      <recent name="oop.t4_InterfacesAndAbstraction.CarShopExtend" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.oop.t4_InterfacesAndAbstraction.BorderControl.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.t3_Inheritance.dsa.Inheritance.Main" />
+      <option name="MAIN_CLASS_NAME" value="oop.t4_InterfacesAndAbstraction.SayHello.Main" />
       <module name="Java-Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.t3_Inheritance.dsa.Inheritance.*" />
+          <option name="PATTERN" value="oop.t4_InterfacesAndAbstraction.SayHello.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,19 +89,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oop.t2_Encapsulation.SalaryIncrease.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.t2_Encapsulation.SalaryIncrease.Main" />
-      <module name="Java-Advanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.t2_Encapsulation.SalaryIncrease.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="oop.t2_Encapsulation.SortByNameAndAge.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop.t2_Encapsulation.SortByNameAndAge.Main" />
       <module name="Java-Advanced" />
@@ -104,12 +102,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Main" />
+    <configuration name="oop.t4_InterfacesAndAbstraction.BorderControl.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.t4_InterfacesAndAbstraction.BorderControl.Main" />
       <module name="Java-Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="oop.t4_InterfacesAndAbstraction.BorderControl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oop.t4_InterfacesAndAbstraction.CarShop.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.t4_InterfacesAndAbstraction.CarShop.Main" />
+      <module name="Java-Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.t4_InterfacesAndAbstraction.CarShop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.oop.t3_Inheritance.Inheritance.Main" />
+        <item itemvalue="Application.oop.t4_InterfacesAndAbstraction.BorderControl.Main" />
+        <item itemvalue="Application.SayHello.Main" />
+        <item itemvalue="Application.oop.t4_InterfacesAndAbstraction.CarShop.Main" />
         <item itemvalue="Application.ValidationData.Main" />
         <item itemvalue="Application.oop.t2_Encapsulation.SortByNameAndAge.Main" />
-        <item itemvalue="Application.oop.t2_Encapsulation.SalaryIncrease.Main" />
-        <item itemvalue="Application.test.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -381,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657902126551</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="exercise">
+      <created>1657984133335</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1657984133335</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -482,6 +500,11 @@
           <line>10</line>
           <option name="timeStamp" value="78" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/BorderControl/Main.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/advanced/t6_DefiningClasses/BankAccount/BankAccount.java</url>
           <line>6</line>
@@ -494,6 +517,7 @@
       <configuration name="Application">
         <watch expression="freshnessStack" />
         <watch expression="rect.A" />
+        <watch expression="((Robot)identifiableList.get(2)).model" custom="oop.t4_InterfacesAndAbstraction.BorderControl.Robot" />
       </configuration>
     </watches-manager>
   </component>
