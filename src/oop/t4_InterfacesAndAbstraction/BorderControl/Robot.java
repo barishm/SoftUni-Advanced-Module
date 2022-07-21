@@ -1,13 +1,16 @@
 package oop.t4_InterfacesAndAbstraction.BorderControl;
 
 public class Robot implements Identifiable {
-    private String id;
     private String model;
+    private String id;
 
-    public Robot(String id, String model) {
-        this.id = id;
+
+    public Robot(String model, String id) {
         this.model = model;
+        this.id = id;
     }
+
+    @Override
     public String getId(){
         return id;
     }

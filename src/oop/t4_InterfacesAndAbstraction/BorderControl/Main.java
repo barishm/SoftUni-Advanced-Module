@@ -22,7 +22,13 @@ public class Main {
             identifiableList.add(identifiable);
             input = scan.nextLine();
         }
+        String fakeIdPostfix = scan.nextLine();
 
+        identifiableList
+                .stream()
+                .map(Identifiable::getId)
+                .filter(i -> i.endsWith(fakeIdPostfix))
+                .forEach(System.out::println);
 
     }
 }

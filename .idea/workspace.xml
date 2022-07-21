@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4652c952-7312-44b1-bb3a-3d36ca65ac0f" name="Changes" comment="exercise">
-      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/BorderControl/Citizen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/BorderControl/Identifiable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/BorderControl/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/BorderControl/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/CarShop/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/CarShop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/CarShop/Seat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/SayHello/BasePerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/SayHello/Bulgarian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/SayHello/Chinese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/SayHello/European.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/SayHello/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/SayHello/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/BorderControl/Citizen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BorderControl/Citizen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/BorderControl/Identifiable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BorderControl/Identifiable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/BorderControl/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BorderControl/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/BorderControl/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BorderControl/Robot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -399,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657984133335</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="exercise">
+      <created>1658428521934</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1658428521934</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,11 +498,6 @@
           <line>10</line>
           <option name="timeStamp" value="78" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/BorderControl/Main.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="80" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/advanced/t6_DefiningClasses/BankAccount/BankAccount.java</url>
           <line>6</line>
@@ -518,6 +511,7 @@
         <watch expression="freshnessStack" />
         <watch expression="rect.A" />
         <watch expression="((Robot)identifiableList.get(2)).model" custom="oop.t4_InterfacesAndAbstraction.BorderControl.Robot" />
+        <watch expression="identifiableList.get(2)" />
       </configuration>
     </watches-manager>
   </component>

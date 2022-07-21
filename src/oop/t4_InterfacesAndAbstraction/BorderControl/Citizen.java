@@ -16,8 +16,9 @@ public class Citizen implements Identifiable {
     public int getAge(){
         return age;
     }
+    @Override
     public String getId(){
-        return id;
+        return this.id;
     }
 
 }
