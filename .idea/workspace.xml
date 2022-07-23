@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4652c952-7312-44b1-bb3a-3d36ca65ac0f" name="Changes" comment="exercise">
+      <change afterPath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/DefineAnInterfacePerson/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/BorderControl/Citizen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BorderControl/Citizen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/BorderControl/Identifiable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BorderControl/Identifiable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/BorderControl/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BorderControl/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t4_InterfacesAndAbstraction/BorderControl/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BorderControl/Robot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,20 +50,7 @@
       <recent name="oop.t4_InterfacesAndAbstraction.CarShopExtend" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.oop.t4_InterfacesAndAbstraction.BorderControl.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.t4_InterfacesAndAbstraction.SayHello.Main" />
-      <module name="Java-Advanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.t4_InterfacesAndAbstraction.SayHello.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.oop.t4_InterfacesAndAbstraction.DefineAnInterfacePerson.Main">
     <configuration name="ValidationData.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ValidationData.Main" />
       <module name="Java-Advanced" />
@@ -119,10 +103,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="oop.t4_InterfacesAndAbstraction.DefineAnInterfacePerson.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.t4_InterfacesAndAbstraction.DefineAnInterfacePerson.Main" />
+      <module name="Java-Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.t4_InterfacesAndAbstraction.DefineAnInterfacePerson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.oop.t4_InterfacesAndAbstraction.DefineAnInterfacePerson.Main" />
         <item itemvalue="Application.oop.t4_InterfacesAndAbstraction.BorderControl.Main" />
-        <item itemvalue="Application.SayHello.Main" />
         <item itemvalue="Application.oop.t4_InterfacesAndAbstraction.CarShop.Main" />
         <item itemvalue="Application.ValidationData.Main" />
         <item itemvalue="Application.oop.t2_Encapsulation.SortByNameAndAge.Main" />
@@ -397,7 +394,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658428521934</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="exercise">
+      <created>1658429533937</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1658429533937</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
