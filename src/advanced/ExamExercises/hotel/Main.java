@@ -8,7 +8,7 @@ public class Main {
         Person person = new Person("Mark", 11111, 41, "Sofia");
         //Print person
         System.out.println(person);
-        //Person Mark: 11111, Age: 41, Hometown: Sofia
+        //oop.t3_Inheritance.Person Mark: 11111, Age: 41, Hometown: Sofia
 
         //Add person
         hotel.add(person);
@@ -29,21 +29,21 @@ public class Main {
         // Get person
         Person personForGet = hotel.getPerson("Lucy", "Birmingham");
         Person personForGet1 = hotel.getPerson("Anna", "Burgas");
-        System.out.println(personForGet); // Person Lucy: 54122, Age: 31, Hometown: Birmingham
+        System.out.println(personForGet); // oop.t3_Inheritance.Person Lucy: 54122, Age: 31, Hometown: Birmingham
         System.out.println(personForGet1); // null
 
         //Count
         System.out.println(hotel.getCount()); // 5
 
-        //Remove Person
+        //Remove oop.t3_Inheritance.Person
         System.out.println(hotel.remove("Alice")); //true
 
         // Get Statistics
         System.out.println(hotel.getStatistics());
         // The people in the hotel Hilton are:
-        // Person Mark: 11111, Age: 41, Hometown: Sofia
-        // Person Lizzy: 31311, Age: 24, Hometown: Varna
-        // Person Lucy: 54122, Age: 31, Hometown: Birmingham
-        // Person Maria: 66611, Age: 41, Hometown: Sofia
+        // oop.t3_Inheritance.Person Mark: 11111, Age: 41, Hometown: Sofia
+        // oop.t3_Inheritance.Person Lizzy: 31311, Age: 24, Hometown: Varna
+        // oop.t3_Inheritance.Person Lucy: 54122, Age: 31, Hometown: Birmingham
+        // oop.t3_Inheritance.Person Maria: 66611, Age: 41, Hometown: Sofia
     }
 }

@@ -50,11 +50,11 @@ public class Person {
         this.hometown = hometown;
     }
 
-    //"Person {name}: {id}, Age: {age}, Hometown: {hometown}"
+    //"oop.t3_Inheritance.Person {name}: {id}, Age: {age}, Hometown: {hometown}"
 
     @Override
     public String toString() {
 
-        return String.format("Person %s: %d, Age: %d, Hometown: %s", name, id, age, hometown);
+        return String.format("oop.t3_Inheritance.Person %s: %d, Age: %d, Hometown: %s", name, id, age, hometown);
     }
 }
