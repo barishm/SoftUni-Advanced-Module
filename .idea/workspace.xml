@@ -2,40 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4652c952-7312-44b1-bb3a-3d36ca65ac0f" name="Changes" comment="exercise">
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/Person/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/Person/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/Person/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/Zoo/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/Zoo/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/Zoo/Gorilla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/Zoo/Lizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/Zoo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/Zoo/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/Zoo/Reptile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/Zoo/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/hero/BladeKnight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/hero/DarkKnight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/hero/DarkWizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/hero/Elf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/hero/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/hero/Knight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/hero/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/hero/MuseElf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/hero/SoulMaster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/hero/Wizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/Animals/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/Animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/Animals/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/Animals/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/MathOperation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/MathOperation/MathOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/Vehicles/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/Vehicles/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/Vehicles/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/NeedForSpeed/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/NeedForSpeed/CrossMotorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/NeedForSpeed/FamilyCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/NeedForSpeed/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/NeedForSpeed/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/NeedForSpeed/RaceMotorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/NeedForSpeed/SportCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/NeedForSpeed/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/restaurant/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/restaurant/Cake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/restaurant/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/restaurant/ColdBeverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/restaurant/Dessert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/restaurant/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/restaurant/HotBeverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/restaurant/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/restaurant/MainDish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/restaurant/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/restaurant/Salmon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/restaurant/Soup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/restaurant/Starter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t3_Inheritance/restaurant/Tea.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced/ExamExercises/hotel/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/hotel/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advanced/ExamExercises/hotel/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advanced/ExamExercises/hotel/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t2_Encapsulation/shopping/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t2_Encapsulation/shopping/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -451,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658856045233</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="exercise">
+      <created>1659110378702</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1659110378702</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
