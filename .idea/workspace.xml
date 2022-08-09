@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4652c952-7312-44b1-bb3a-3d36ca65ac0f" name="Changes" comment="exercise">
-      <change beforePath="$PROJECT_DIR$/src/oop/t5_Polymorphism/Vehicles/AbstractVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/Vehicles/AbstractVehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t5_Polymorphism/VehiclesExtension/AbstractVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/VehiclesExtension/AbstractVehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t5_Polymorphism/VehiclesExtension/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/VehiclesExtension/Bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t5_Polymorphism/VehiclesExtension/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/VehiclesExtension/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t5_Polymorphism/VehiclesExtension/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/VehiclesExtension/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t5_Polymorphism/VehiclesExtension/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/VehiclesExtension/Truck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t5_Polymorphism/VehiclesExtension/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/VehiclesExtension/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/WildFarm/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/WildFarm/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/WildFarm/Feline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/WildFarm/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/WildFarm/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/WildFarm/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/WildFarm/Meat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/WildFarm/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/WildFarm/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/WildFarm/Vegetable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t5_Polymorphism/WildFarm/Zebra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +65,20 @@
       <recent name="C:\Users\User\IdeaProjects\Java-Advanced\src\oop\t4_InterfacesAndAbstraction\BirthdayCelebrations" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.oop.t5_Polymorphism.Vehicles.Main">
+  <component name="RunManager" selected="Application.WildFarm.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.t5_Polymorphism.WildFarm.Main" />
+      <module name="Java-Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.t5_Polymorphism.WildFarm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="oop.t3_Inheritance.Person.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop.t3_Inheritance.Person.Main" />
       <module name="Java-Advanced" />
@@ -128,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WildFarm.Main" />
         <item itemvalue="Application.oop.t5_Polymorphism.Vehicles.Main" />
         <item itemvalue="Application.oop.t5_Polymorphism.VehiclesExtension.Main" />
         <item itemvalue="Application.oop.t5_Polymorphism.Vehicles.Main" />
         <item itemvalue="Application.oop.t3_Inheritance.animals.Main" />
-        <item itemvalue="Application.oop.t3_Inheritance.Person.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -453,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660063207363</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="exercise">
+      <created>1660063661584</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1660063661584</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -578,24 +603,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="82" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/oop/t5_Polymorphism/VehiclesExtension/AbstractVehicle.java</url>
-          <line>19</line>
-          <properties class="VehiclesExtension.AbstractVehicle" method="drive">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="85" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/oop/t5_Polymorphism/VehiclesExtension/AbstractVehicle.java</url>
-          <line>27</line>
-          <properties class="VehiclesExtension.AbstractVehicle" method="hasEnoughFuel">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="86" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/oop/t5_Polymorphism/Vehicles/Car.java</url>
