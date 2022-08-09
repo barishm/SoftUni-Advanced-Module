@@ -1,9 +1,9 @@
-package oop.t5_Polymorphism.Vehicles;
+package oop.t5_Polymorphism.VehiclesExtension;
 
-public class Car extends AbstractVehicle{
+public class Car extends AbstractVehicle {
     private static final double FUEL_CONSUMPTION_INCREASE = 0.9;
-    public Car(double fuelQuantity, double fuelConsumption) {
-        super(fuelQuantity, fuelConsumption + FUEL_CONSUMPTION_INCREASE);
+    public Car(double fuelQuantity, double fuelConsumption,double tankCapacity) {
+        super(fuelQuantity, fuelConsumption + FUEL_CONSUMPTION_INCREASE,tankCapacity);
     }
 
     @Override
