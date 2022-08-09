@@ -19,7 +19,7 @@ public abstract class AbstractVehicle implements Vehicle {
     @Override
     public String drive(double kilometers){
         if(hasEnoughFuel(kilometers)){
-            return "needs refuelling";
+            return "needs refueling";
         }
         consumeFuel(kilometers);
         return "travelled " + df.format(kilometers) + " km";
