@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4652c952-7312-44b1-bb3a-3d36ca65ac0f" name="Changes" comment="exercise">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/harvestingFields/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/harvestingFields/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/harvestingFields/RichSoilLand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/harvestingFields/RichSoilLand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/blackBoxInteger/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/blackBoxInteger/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +55,13 @@
       <recent name="C:\Users\User\IdeaProjects\Java-Advanced\src\oop\t4_InterfacesAndAbstraction\BirthdayCelebrations" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.oop.t7_Reflection.harvestingFields.Main">
-    <configuration name="oop.t3_Inheritance.Person.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.t3_Inheritance.Person.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.t7_Reflection.blackBoxInteger.Main" />
       <module name="Java-Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.t3_Inheritance.Person.*" />
+          <option name="PATTERN" value="oop.t7_Reflection.blackBoxInteger.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oop.t3_Inheritance.animals.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.t3_Inheritance.animals.Main" />
+    <configuration name="oop.t3_Inheritance.Person.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.t3_Inheritance.Person.Main" />
       <module name="Java-Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.t3_Inheritance.animals.*" />
+          <option name="PATTERN" value="oop.t3_Inheritance.Person.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,7 +140,6 @@
         <item itemvalue="Application.oop.t5_Polymorphism.Vehicles.Main" />
         <item itemvalue="Application.oop.t5_Polymorphism.VehiclesExtension.Main" />
         <item itemvalue="Application.oop.t5_Polymorphism.Vehicles.Main" />
-        <item itemvalue="Application.oop.t3_Inheritance.animals.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -476,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660078916116</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="exercise">
+      <created>1660235045329</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1660235045329</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
