@@ -2,16 +2,36 @@ package oop.t7_Reflection.barracksWars.core.factories;
 
 import oop.t7_Reflection.barracksWars.interfaces.Unit;
 import oop.t7_Reflection.barracksWars.interfaces.UnitFactory;
-import jdk.jshell.spi.ExecutionControl;
+
+import java.lang.reflect.Constructor;
+import java.lang.reflect.InvocationTargetException;
 
 public class UnitFactoryImpl implements UnitFactory {
 
-	private static final String UNITS_PACKAGE_NAME =
-			"oop.t7_Reflection.barracksWars.models.units.";
+    private static final String UNITS_PACKAGE_NAME = "oop.t7_Reflection.barracksWars.models.units.";
 
-	@Override
-	public Unit createUnit(String unitType) throws ExecutionControl.NotImplementedException {
-		// TODO: implement for problem 3
-		throw new ExecutionControl.NotImplementedException("message");
-	}
+    @Override
+    @SuppressWarnings("unchecked")
+    public Unit createUnit(String unitType) throws InvocationTargetException,
+            NoSuchMethodException,
+            InstantiationException,
+            IllegalAccessException,
+            ClassNotFoundException {
+
+        Class<Unit> unitClass = (Class<Unit>) Class.forName(UNITS_PACKAGE_NAME + unitType);
+
+        return createUnit(unitClass);
+    }
+
+    private Unit createUnit(Class<Unit> unitClass) throws NoSuchMethodException,
+            IllegalAccessException,
+            InvocationTargetException,
+            InstantiationException {
+
+        Constructor<Unit> constructor = unitClass.getDeclaredConstructor();
+        constructor.setAccessible(true);
+
+        return constructor.newInstance();
+    }
 }
+

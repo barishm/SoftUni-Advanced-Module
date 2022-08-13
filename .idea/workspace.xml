@@ -3,7 +3,33 @@
   <component name="ChangeListManager">
     <list default="true" id="4652c952-7312-44b1-bb3a-3d36ca65ac0f" name="Changes" comment="exercise">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/blackBoxInteger/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/blackBoxInteger/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/annotations/Inject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/annotations/Inject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/CommandInterpreterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/CommandInterpreterImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/commands/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/commands/Add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/commands/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/commands/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/commands/Fight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/commands/Fight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/commands/Report.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/commands/Report.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/commands/Retire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/commands/Retire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/factories/CommandFactoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/factories/CommandFactoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/factories/UnitFactoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/data/UnitRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/interfaces/Attacker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/interfaces/CommandFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/interfaces/CommandFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/interfaces/CommandInterpreter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/interfaces/Destroyable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/interfaces/Executable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/interfaces/Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/interfaces/Runnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/interfaces/Unit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/interfaces/UnitFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/models/units/AbstractUnit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/models/units/Archer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/models/units/Gunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/models/units/Gunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/models/units/Horseman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/models/units/Horseman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/models/units/Pikeman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/models/units/Swordsman.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,33 +81,7 @@
       <recent name="C:\Users\User\IdeaProjects\Java-Advanced\src\oop\t4_InterfacesAndAbstraction\BirthdayCelebrations" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.t7_Reflection.blackBoxInteger.Main" />
-      <module name="Java-Advanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.t7_Reflection.blackBoxInteger.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="oop.t3_Inheritance.Person.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.t3_Inheritance.Person.Main" />
-      <module name="Java-Advanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.t3_Inheritance.Person.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.oop.t7_Reflection.barracksWars.Main">
     <configuration name="oop.t5_Polymorphism.VehiclesExtension.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop.t5_Polymorphism.VehiclesExtension.Main" />
       <module name="Java-Advanced" />
@@ -121,6 +121,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="oop.t7_Reflection.barracksWars.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.t7_Reflection.barracksWars.Main" />
+      <module name="Java-Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.t7_Reflection.barracksWars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oop.t7_Reflection.barracksWars.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.t7_Reflection.barracksWars.Main" />
+      <module name="Java-Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.t7_Reflection.barracksWars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="oop.t7_Reflection.harvestingFields.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop.t7_Reflection.harvestingFields.Main" />
       <module name="Java-Advanced" />
@@ -136,10 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.oop.t7_Reflection.barracksWars.Main" />
+        <item itemvalue="Application.oop.t7_Reflection.barracksWars.Main" />
         <item itemvalue="Application.oop.t7_Reflection.harvestingFields.Main" />
         <item itemvalue="Application.oop.t5_Polymorphism.Vehicles.Main" />
         <item itemvalue="Application.oop.t5_Polymorphism.VehiclesExtension.Main" />
-        <item itemvalue="Application.oop.t5_Polymorphism.Vehicles.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -481,7 +508,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660235045329</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="exercise">
+      <created>1660382827243</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1660382827243</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
