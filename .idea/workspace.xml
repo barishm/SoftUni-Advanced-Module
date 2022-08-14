@@ -2,34 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4652c952-7312-44b1-bb3a-3d36ca65ac0f" name="Changes" comment="exercise">
+      <change afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/animals/AquaticAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/animals/BaseAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/animals/Behavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/animals/TerrestrialAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/areas/BaseArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/areas/LandArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/areas/WaterArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/foods/BaseFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/foods/Meat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/foods/Vegetable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/exams/zoo/repositories/FoodRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/t1_WorkingWithAbstraction/jediGalaxy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/annotations/Inject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/annotations/Inject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/CommandInterpreterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/CommandInterpreterImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/Engine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/commands/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/commands/Add.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/commands/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/commands/Command.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/commands/Fight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/commands/Fight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/commands/Report.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/commands/Report.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/commands/Retire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/commands/Retire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/factories/CommandFactoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/factories/CommandFactoryImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/core/factories/UnitFactoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/data/UnitRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/interfaces/Attacker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/interfaces/CommandFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/interfaces/CommandFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/interfaces/CommandInterpreter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/interfaces/Destroyable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/interfaces/Executable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/interfaces/Repository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/interfaces/Runnable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/interfaces/Unit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/interfaces/UnitFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/models/units/AbstractUnit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/models/units/Archer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/models/units/Gunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/models/units/Gunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/models/units/Horseman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/models/units/Horseman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/models/units/Pikeman.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/t7_Reflection/barracksWars/models/units/Swordsman.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,16 +45,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/Java-Advanced/src/oop/t5_Polymorphism/vhEx&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/FootballTeam",
+    "settings.editor.selected.configurable": "project.scopes"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="oop.t4_InterfacesAndAbstraction.CarShop" />
@@ -81,13 +66,20 @@
       <recent name="C:\Users\User\IdeaProjects\Java-Advanced\src\oop\t4_InterfacesAndAbstraction\BirthdayCelebrations" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.oop.t7_Reflection.barracksWars.Main">
-    <configuration name="oop.t5_Polymorphism.VehiclesExtension.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.t5_Polymorphism.VehiclesExtension.Main" />
+  <component name="RunManager" selected="Application.oop.exams.zoo.Main">
+    <configuration name="GreedyTimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.t1_WorkingWithAbstraction.GreedyTimes" />
+      <module name="Java-Advanced" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oop.exams.zoo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.exams.zoo.Main" />
       <module name="Java-Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.t5_Polymorphism.VehiclesExtension.*" />
+          <option name="PATTERN" value="oop.exams.zoo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,28 +87,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oop.t5_Polymorphism.Vehicles.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.t5_Polymorphism.Vehicles.Main" />
+    <configuration name="oop.t1_WorkingWithAbstraction.jediGalaxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.t1_WorkingWithAbstraction.jediGalaxy" />
       <module name="Java-Advanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.t5_Polymorphism.Vehicles.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="oop.t5_Polymorphism.Vehicles.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.t5_Polymorphism.Vehicles.Main" />
-      <module name="Java-Advanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.t5_Polymorphism.Vehicles.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -162,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.oop.exams.zoo.Main" />
+        <item itemvalue="Application.GreedyTimes" />
+        <item itemvalue="Application.oop.t1_WorkingWithAbstraction.jediGalaxy" />
         <item itemvalue="Application.oop.t7_Reflection.barracksWars.Main" />
         <item itemvalue="Application.oop.t7_Reflection.barracksWars.Main" />
-        <item itemvalue="Application.oop.t7_Reflection.harvestingFields.Main" />
-        <item itemvalue="Application.oop.t5_Polymorphism.Vehicles.Main" />
-        <item itemvalue="Application.oop.t5_Polymorphism.VehiclesExtension.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -178,13 +151,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652884105799</updated>
-    </task>
-    <task id="LOCAL-00001" summary="exercise">
-      <created>1653056794991</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1653056794992</updated>
     </task>
     <task id="LOCAL-00002" summary="exercise">
       <created>1653155707698</created>
@@ -515,7 +481,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660382827243</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="exercise">
+      <created>1660385263771</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1660385263771</updated>
+    </task>
+    <task id="LOCAL-00050" summary="exercise">
+      <created>1660385272509</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1660385272510</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -597,11 +577,6 @@
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/oop/t1_WorkingWithAbstraction/Main.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="69" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/oop/t1_WorkingWithAbstraction/PointInRectangle/Point.java</url>
           <line>11</line>
           <option name="timeStamp" value="76" />
@@ -626,6 +601,11 @@
           <line>26</line>
           <option name="timeStamp" value="91" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jediGalaxy/Main.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/advanced/t6_DefiningClasses/BankAccount/BankAccount.java</url>
           <line>6</line>
@@ -635,7 +615,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/oop/t5_Polymorphism/VehiclesExtension/Bus.java</url>
           <line>10</line>
-          <properties class="VehiclesExtension.Bus" method="drive">
+          <properties class="oop.t5_Polymorphism.VehiclesExtension.Bus" method="drive">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -644,7 +624,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/oop/t5_Polymorphism/Vehicles/Car.java</url>
           <line>19</line>
-          <properties class="Vehicles.Car" method="refuel">
+          <properties class="oop.t5_Polymorphism.Vehicles.Car" method="refuel">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -653,7 +633,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/oop/t5_Polymorphism/Vehicles/AbstractVehicle.java</url>
           <line>33</line>
-          <properties class="Vehicles.AbstractVehicle" method="refuel">
+          <properties class="oop.t5_Polymorphism.Vehicles.AbstractVehicle" method="refuel">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -661,6 +641,11 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="jediGalaxy.StarsField" memberName="starsField" />
+      </pinned-members>
+    </pin-to-top-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="freshnessStack" />
