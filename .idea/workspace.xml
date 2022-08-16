@@ -2,19 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4652c952-7312-44b1-bb3a-3d36ca65ac0f" name="Changes" comment="exercise">
-      <change afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/animals/AquaticAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/animals/BaseAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/animals/Behavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/animals/TerrestrialAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/areas/BaseArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/areas/LandArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/areas/WaterArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/foods/BaseFood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/foods/Meat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/foods/Vegetable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/exams/zoo/repositories/FoodRepositoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/t1_WorkingWithAbstraction/jediGalaxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/glacialExpedition/models/explorers/AnimalExplorer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/glacialExpedition/models/explorers/BaseExplorer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/glacialExpedition/models/explorers/GlacierExplorer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/glacialExpedition/models/explorers/NaturalExplorer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/zoo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/zoo/common/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/common/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/zoo/common/ConstantMessages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/common/ConstantMessages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/zoo/common/ExceptionMessages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/common/ExceptionMessages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/zoo/core/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/core/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/zoo/core/ControllerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/core/ControllerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/zoo/core/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/core/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/zoo/core/EngineImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/core/EngineImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/zoo/entities/animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/animals/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/zoo/entities/animals/AquaticAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/animals/AquaticAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/zoo/entities/animals/BaseAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/animals/BaseAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/zoo/entities/animals/Behavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/animals/Behavior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/zoo/entities/animals/TerrestrialAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/animals/TerrestrialAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/zoo/entities/areas/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/areas/Area.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/zoo/entities/areas/BaseArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/areas/BaseArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/zoo/entities/areas/LandArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/areas/LandArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/zoo/entities/areas/WaterArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/areas/WaterArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/zoo/entities/foods/BaseFood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/foods/BaseFood.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/zoo/entities/foods/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/foods/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/zoo/entities/foods/Meat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/foods/Meat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/zoo/entities/foods/Vegetable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/foods/Vegetable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/zoo/repositories/FoodRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/repositories/FoodRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/zoo/repositories/FoodRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/repositories/FoodRepositoryImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,16 +60,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/User/IdeaProjects/FootballTeam",
-    "settings.editor.selected.configurable": "project.scopes"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/FootballTeam&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="oop.t4_InterfacesAndAbstraction.CarShop" />
@@ -74,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oop.exams.zoo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.exams.zoo.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.exams.Exam18Apr2022.zoo.Main" />
       <module name="Java-Advanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.exams.zoo.*" />
+          <option name="PATTERN" value="oop.exams.Exam18Apr2022.zoo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,13 +166,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652884105799</updated>
-    </task>
-    <task id="LOCAL-00002" summary="exercise">
-      <created>1653155707698</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1653155707698</updated>
     </task>
     <task id="LOCAL-00003" summary="exercise">
       <created>1653927403785</created>
@@ -495,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660385272510</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="exercise">
+      <created>1660512577249</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1660512577249</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
