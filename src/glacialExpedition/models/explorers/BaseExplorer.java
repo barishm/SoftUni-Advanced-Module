@@ -12,6 +12,7 @@ public abstract class BaseExplorer implements Explorer{
         this.energy = energy;
     }
 
+
     @Override
     public String getName() {
         return null;
@@ -23,13 +24,17 @@ public abstract class BaseExplorer implements Explorer{
     }
 
     @Override
+    public Suitcase getSuitcase() {
+        return null;
+    }
+
+    @Override
     public boolean canSearch() {
         return false;
     }
 
     @Override
-    public Suitcase getSuitcase() {
-        return null;
-    }
+    public void search() {
 
+    }
 }
