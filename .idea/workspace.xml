@@ -2,30 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4652c952-7312-44b1-bb3a-3d36ca65ac0f" name="Changes" comment="exercise">
-      <change afterPath="$PROJECT_DIR$/src/glacialExpedition/models/mission/MissionImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/glacialExpedition/models/states/StateImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/glacialExpedition/models/suitcases/Carton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/glacialExpedition/repositories/ExplorerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/glacialExpedition/repositories/StateRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/exams/goldDigger/models/discoverer/Anthropologist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/exams/goldDigger/models/discoverer/Archaeologist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/exams/goldDigger/models/discoverer/BaseDiscoverer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/exams/goldDigger/models/discoverer/Geologist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/exams/goldDigger/models/museum/BaseMuseum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/exams/goldDigger/models/operation/OperationImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/exams/goldDigger/models/spot/SpotImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/exams/goldDigger/repositories/DiscovererRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/exams/goldDigger/repositories/SpotRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/common/Command.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/common/ConstantMessages.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/common/ExceptionMessages.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/core/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/core/ControllerImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/core/Engine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/core/EngineImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/models/explorers/AnimalExplorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/glacialExpedition/models/explorers/AnimalExplorer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/models/explorers/BaseExplorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/glacialExpedition/models/explorers/BaseExplorer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/models/explorers/Explorer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/models/explorers/GlacierExplorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/glacialExpedition/models/explorers/GlacierExplorer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/models/explorers/NaturalExplorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/glacialExpedition/models/explorers/NaturalExplorer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/models/mission/Mission.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/models/states/State.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/models/suitcases/Suitcase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/repositories/Repository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/animals/Behavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/models/explorers/AnimalExplorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/glacialExpedition/models/explorers/AnimalExplorer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/models/explorers/BaseExplorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/glacialExpedition/models/explorers/BaseExplorer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/models/explorers/GlacierExplorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/glacialExpedition/models/explorers/GlacierExplorer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/models/explorers/NaturalExplorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/glacialExpedition/models/explorers/NaturalExplorer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/models/mission/MissionImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/glacialExpedition/models/mission/MissionImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/models/states/StateImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/glacialExpedition/models/states/StateImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/models/suitcases/Carton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/glacialExpedition/models/suitcases/Carton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/repositories/ExplorerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/glacialExpedition/repositories/ExplorerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/glacialExpedition/repositories/StateRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/glacialExpedition/repositories/StateRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/zoo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/common/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/zoo/common/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/common/ConstantMessages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/zoo/common/ConstantMessages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/common/ExceptionMessages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/zoo/common/ExceptionMessages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/core/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/zoo/core/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/core/ControllerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/zoo/core/ControllerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/core/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/zoo/core/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/core/EngineImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/zoo/core/EngineImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/animals/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/animals/AquaticAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/animals/AquaticAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/animals/BaseAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/animals/BaseAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/animals/TerrestrialAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/animals/TerrestrialAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/areas/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/areas/Area.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/areas/BaseArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/areas/BaseArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/areas/LandArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/areas/LandArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/areas/WaterArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/areas/WaterArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/foods/BaseFood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/foods/BaseFood.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/foods/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/foods/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/foods/Meat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/foods/Meat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/entities/foods/Vegetable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/zoo/entities/foods/Vegetable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/repositories/FoodRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/zoo/repositories/FoodRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/exams/Exam18Apr2022/zoo/repositories/FoodRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oop/exams/zoo/repositories/FoodRepositoryImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +94,7 @@
       <recent name="C:\Users\User\IdeaProjects\Java-Advanced\src\oop\t4_InterfacesAndAbstraction\BirthdayCelebrations" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.oop.exams.goldDigger.Main">
     <configuration name="GreedyTimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oop.t1_WorkingWithAbstraction.GreedyTimes" />
       <module name="Java-Advanced" />
@@ -91,6 +108,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="oop.exams.Exam18Apr2022.zoo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oop.exams.goldDigger.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.exams.goldDigger.Main" />
+      <module name="Java-Advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.exams.goldDigger.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,25 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oop.t7_Reflection.harvestingFields.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.t7_Reflection.harvestingFields.Main" />
-      <module name="Java-Advanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.t7_Reflection.harvestingFields.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.oop.exams.goldDigger.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.GreedyTimes" />
         <item itemvalue="Application.oop.t1_WorkingWithAbstraction.jediGalaxy" />
-        <item itemvalue="Application.oop.t7_Reflection.barracksWars.Main" />
         <item itemvalue="Application.oop.t7_Reflection.barracksWars.Main" />
       </list>
     </recent_temporary>
@@ -162,13 +179,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652884105799</updated>
-    </task>
-    <task id="LOCAL-00004" summary="exercise">
-      <created>1654029324515</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1654029324515</updated>
     </task>
     <task id="LOCAL-00005" summary="exercise">
       <created>1654200415568</created>
@@ -506,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660673708629</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="exercise">
+      <created>1661119977059</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1661119977059</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -616,6 +633,11 @@
           <url>file://$PROJECT_DIR$/src/jediGalaxy/Main.java</url>
           <line>7</line>
           <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oop/exams/goldDigger/core/ControllerImpl.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="93" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/advanced/t6_DefiningClasses/BankAccount/BankAccount.java</url>
